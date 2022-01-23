@@ -1,4 +1,12 @@
 {
     "name": "@hex0b1t/palindrome",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "A simple palindrome checker",
+    "repository": {"url": "https://github.com/hex0b1t/palindrome-checker.git"},
+    "main": "index.js",
+    "keywords": [
+        "npm",
+        "palindrome",
+        "package"
+    ]
 }
