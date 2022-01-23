@@ -1,5 +1,5 @@
 {
-    "name": "@hex0b1t/palindrome",
+    "name": "@hex0b1t/palindrome-checker",
     "version": "2.0.0",
     "description": "A simple palindrome checker",
     "repository": {
